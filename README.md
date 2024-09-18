@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-
+<!--
 - 🌱 I’m currently learning Node.js,embedded and 日本語
+-->
 - 🔭 I’m currently working on xxxx
 - 💬 Ask me about my all
 - 📫 How to reach me: wx1458084829@gmail.com
